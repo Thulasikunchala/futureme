@@ -1,0 +1,14 @@
+# Local environment variables
+.env
+.env.local
+
+# Dependency directories
+node_modules/
+backend/node_modules/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+*.log
